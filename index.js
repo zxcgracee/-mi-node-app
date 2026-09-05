@@ -1,24 +1,42 @@
-// 1. Вывод ФИО и группы
-console.log("Иванов Иван Иванович"); 
-console.log("Группа: ЭВМ-24-1");
+const http = require('http');
 
-// Укажите ваш номер по журналу (например, 12)
-const journalNumber = 12; 
 
-// 2. Функция ручного вычисления числа ПИ (Ряд Нилаканта)
+const fio = "Рогацевич Вячеслав Павлович"; 
+const group = "Группа 301";
+const journalNumber = 15; //
+
+
 function calculatePi(digits) {
     let pi = 3.0;
     let sign = 1;
-    
-    // Делаем достаточное количество итераций для высокой точности
     for (let i = 2; i <= 500000; i += 2) {
         pi += sign * (4.0 / (i * (i + 1) * (i + 2)));
         sign *= -1;
     }
-    
-    // Обрезаем до нужного количества знаков после запятой по номеру журнала
     return pi.toFixed(digits);
 }
 
-// 3. Вывод вычисленного числа ПИ на третьей строке
-console.log(calculatePi(journalNumber));
+const piValue = calculatePi(journalNumber);
+
+
+console.log(fio); 
+console.log(group);
+console.log(piValue);
+
+
+const PORT = 3000;
+const server = http.createServer((req, res) => {
+    
+    res.writeHead(200, { 'Content-Type': 'text/plain; charset=utf-8' });
+    
+    
+    res.write(`${fio}\n`);
+    res.write(`${group}\n`);
+    res.write(`${piValue}\n`);
+    res.end();
+});
+
+
+server.listen(PORT, () => {
+    console.log(`\n[Сервер запущен! Откройте в браузере: http://localhost:${PORT}]`);
+});
