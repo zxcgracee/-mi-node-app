@@ -1,9 +1,24 @@
-const http = require('http'); 
-const server = http.createServer((req, res) => { 
-res.writeHead(200, { 'Content-Type': 'text/html; charset=utf-8' }); 
-res.end('<h1>Привет, мир!</h1>'); 
-}); 
-const PORT = 3000; 
-server.listen(PORT, () => { 
-console.log(`Сервер запущен на http://localhost:${PORT}`); 
-});
+// 1. Вывод ФИО и группы
+console.log("Иванов Иван Иванович"); 
+console.log("Группа: ЭВМ-24-1");
+
+// Укажите ваш номер по журналу (например, 12)
+const journalNumber = 12; 
+
+// 2. Функция ручного вычисления числа ПИ (Ряд Нилаканта)
+function calculatePi(digits) {
+    let pi = 3.0;
+    let sign = 1;
+    
+    // Делаем достаточное количество итераций для высокой точности
+    for (let i = 2; i <= 500000; i += 2) {
+        pi += sign * (4.0 / (i * (i + 1) * (i + 2)));
+        sign *= -1;
+    }
+    
+    // Обрезаем до нужного количества знаков после запятой по номеру журнала
+    return pi.toFixed(digits);
+}
+
+// 3. Вывод вычисленного числа ПИ на третьей строке
+console.log(calculatePi(journalNumber));
