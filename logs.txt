@@ -1,0 +1,61 @@
+[2026-09-17T06:30:37.707Z] СОБЫТИЕ: server:started - 3000
+[2026-09-17T06:30:44.308Z] СОБЫТИЕ: request:received - GET /
+[2026-09-17T06:30:47.711Z] СОБЫТИЕ: server:stopped
+[2026-09-17T06:51:50.852Z] СОБЫТИЕ: server:started - 3000
+[2026-09-17T06:51:57.359Z] СОБЫТИЕ: request:received - GET /order/42
+[2026-09-17T06:51:57.505Z] СОБЫТИЕ: request:received - GET /favicon.ico
+[2026-09-17T06:55:36.767Z] СОБЫТИЕ: server:stopped
+[2026-09-17T06:56:03.132Z] СОБЫТИЕ: server:started - 3000
+[2026-09-17T06:56:05.567Z] СОБЫТИЕ: request:received - GET /order/42
+[2026-09-17T06:56:05.681Z] СОБЫТИЕ: request:received - GET /favicon.ico
+[2026-09-17T06:56:57.727Z] СОБЫТИЕ: request:received - GET /order/42
+[2026-09-17T06:56:57.797Z] СОБЫТИЕ: request:received - GET /favicon.ico
+[2026-09-17T06:56:58.279Z] СОБЫТИЕ: request:received - GET /order/42
+[2026-09-17T06:56:58.325Z] СОБЫТИЕ: request:received - GET /favicon.ico
+[2026-09-17T06:56:58.519Z] СОБЫТИЕ: request:received - GET /order/42
+[2026-09-17T06:56:58.568Z] СОБЫТИЕ: request:received - GET /favicon.ico
+[2026-09-17T06:56:58.695Z] СОБЫТИЕ: request:received - GET /order/42
+[2026-09-17T06:56:58.754Z] СОБЫТИЕ: request:received - GET /favicon.ico
+[2026-09-17T06:56:58.878Z] СОБЫТИЕ: request:received - GET /order/42
+[2026-09-17T06:56:58.925Z] СОБЫТИЕ: request:received - GET /favicon.ico
+[2026-09-17T06:56:59.055Z] СОБЫТИЕ: request:received - GET /order/42
+[2026-09-17T06:56:59.108Z] СОБЫТИЕ: request:received - GET /favicon.ico
+[2026-09-17T06:56:59.222Z] СОБЫТИЕ: request:received - GET /order/42
+[2026-09-17T06:56:59.280Z] СОБЫТИЕ: request:received - GET /favicon.ico
+[2026-09-17T06:56:59.391Z] СОБЫТИЕ: request:received - GET /order/42
+[2026-09-17T06:56:59.442Z] СОБЫТИЕ: request:received - GET /favicon.ico
+[2026-09-17T06:56:59.566Z] СОБЫТИЕ: request:received - GET /order/42
+[2026-09-17T06:56:59.624Z] СОБЫТИЕ: request:received - GET /favicon.ico
+[2026-09-17T06:56:59.734Z] СОБЫТИЕ: request:received - GET /order/42
+[2026-09-17T06:56:59.792Z] СОБЫТИЕ: request:received - GET /favicon.ico
+[2026-09-17T06:56:59.910Z] СОБЫТИЕ: request:received - GET /order/42
+[2026-09-17T06:56:59.976Z] СОБЫТИЕ: request:received - GET /favicon.ico
+[2026-09-17T06:57:00.087Z] СОБЫТИЕ: request:received - GET /order/42
+[2026-09-17T06:57:00.155Z] СОБЫТИЕ: request:received - GET /favicon.ico
+[2026-09-17T06:57:00.246Z] СОБЫТИЕ: request:received - GET /order/42
+[2026-09-17T06:57:00.293Z] СОБЫТИЕ: request:received - GET /favicon.ico
+[2026-09-17T06:57:00.423Z] СОБЫТИЕ: request:received - GET /order/42
+[2026-09-17T06:57:00.473Z] СОБЫТИЕ: request:received - GET /favicon.ico
+[2026-09-17T06:57:00.606Z] СОБЫТИЕ: request:received - GET /order/42
+[2026-09-17T06:57:00.662Z] СОБЫТИЕ: request:received - GET /favicon.ico
+[2026-09-17T06:57:00.782Z] СОБЫТИЕ: request:received - GET /order/42
+[2026-09-17T06:57:00.841Z] СОБЫТИЕ: request:received - GET /favicon.ico
+[2026-09-17T06:57:00.950Z] СОБЫТИЕ: request:received - GET /order/42
+[2026-09-17T06:57:01.016Z] СОБЫТИЕ: request:received - GET /favicon.ico
+[2026-09-17T06:57:01.134Z] СОБЫТИЕ: request:received - GET /order/42
+[2026-09-17T06:57:01.199Z] СОБЫТИЕ: request:received - GET /favicon.ico
+[2026-09-17T06:57:01.295Z] СОБЫТИЕ: request:received - GET /order/42
+[2026-09-17T06:57:01.346Z] СОБЫТИЕ: request:received - GET /favicon.ico
+[2026-09-17T06:57:01.743Z] СОБЫТИЕ: request:received - GET /order/42
+[2026-09-17T06:57:01.806Z] СОБЫТИЕ: request:received - GET /favicon.ico
+[2026-09-17T06:57:01.937Z] СОБЫТИЕ: request:received - GET /order/42
+[2026-09-17T06:57:02.006Z] СОБЫТИЕ: request:received - GET /favicon.ico
+[2026-09-17T06:57:02.119Z] СОБЫТИЕ: request:received - GET /order/42
+[2026-09-17T06:57:02.176Z] СОБЫТИЕ: request:received - GET /favicon.ico
+[2026-09-17T06:57:02.288Z] СОБЫТИЕ: request:received - GET /order/42
+[2026-09-17T06:57:02.357Z] СОБЫТИЕ: request:received - GET /favicon.ico
+[2026-09-17T06:57:02.473Z] СОБЫТИЕ: request:received - GET /order/42
+[2026-09-17T06:57:02.529Z] СОБЫТИЕ: request:received - GET /favicon.ico
+[2026-09-17T06:57:02.631Z] СОБЫТИЕ: request:received - GET /order/42
+[2026-09-17T06:57:02.693Z] СОБЫТИЕ: request:received - GET /favicon.ico
+[2026-09-17T06:57:08.709Z] СОБЫТИЕ: server:stopped
