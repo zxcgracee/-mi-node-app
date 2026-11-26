@@ -1,0 +1,914 @@
+﻿{
+    "value":  [
+                  {
+                      "id":  1,
+                      "title":  "The Hobbit 1",
+                      "author":  "J.R.R. Tolkien",
+                      "year":  1926,
+                      "genre":  "Fantasy",
+                      "isbn":  "978-1000040101",
+                      "available":  true
+                  },
+                  {
+                      "id":  2,
+                      "title":  "War and Peace 2",
+                      "author":  "Leo Tolstoy",
+                      "year":  1952,
+                      "genre":  "Historical",
+                      "isbn":  "978-1000040102",
+                      "available":  true
+                  },
+                  {
+                      "id":  3,
+                      "title":  "Crime and Punishment 3",
+                      "author":  "Fyodor Dostoevsky",
+                      "year":  1978,
+                      "genre":  "Detective",
+                      "isbn":  "978-1000040103",
+                      "available":  false
+                  },
+                  {
+                      "id":  4,
+                      "title":  "Pride and Prejudice 4",
+                      "author":  "Jane Austen",
+                      "year":  2004,
+                      "genre":  "Romance",
+                      "isbn":  "978-1000040104",
+                      "available":  true
+                  },
+                  {
+                      "id":  5,
+                      "title":  "The Little Prince 5",
+                      "author":  "Antoine de Saint-Exupery",
+                      "year":  1905,
+                      "genre":  "Adventure",
+                      "isbn":  "978-1000040105",
+                      "available":  true
+                  },
+                  {
+                      "id":  6,
+                      "title":  "Jane Eyre 6",
+                      "author":  "Charlotte Bronte",
+                      "year":  1931,
+                      "genre":  "Classic",
+                      "isbn":  "978-1000040106",
+                      "available":  false
+                  },
+                  {
+                      "id":  7,
+                      "title":  "Moby Dick 7",
+                      "author":  "Herman Melville",
+                      "year":  1957,
+                      "genre":  "Fiction",
+                      "isbn":  "978-1000040107",
+                      "available":  true
+                  },
+                  {
+                      "id":  8,
+                      "title":  "The Lord of the Rings 8",
+                      "author":  "J.R.R. Tolkien",
+                      "year":  1983,
+                      "genre":  "Fantasy",
+                      "isbn":  "978-1000040108",
+                      "available":  true
+                  },
+                  {
+                      "id":  9,
+                      "title":  "The Great Gatsby 9",
+                      "author":  "F. Scott Fitzgerald",
+                      "year":  2009,
+                      "genre":  "Novel",
+                      "isbn":  "978-1000040109",
+                      "available":  false
+                  },
+                  {
+                      "id":  10,
+                      "title":  "1984 10",
+                      "author":  "George Orwell",
+                      "year":  1910,
+                      "genre":  "Dystopia",
+                      "isbn":  "978-1000040110",
+                      "available":  true
+                  },
+                  {
+                      "id":  11,
+                      "title":  "The Hobbit 11",
+                      "author":  "J.R.R. Tolkien",
+                      "year":  1936,
+                      "genre":  "Fantasy",
+                      "isbn":  "978-1000040111",
+                      "available":  true
+                  },
+                  {
+                      "id":  12,
+                      "title":  "War and Peace 12",
+                      "author":  "Leo Tolstoy",
+                      "year":  1962,
+                      "genre":  "Historical",
+                      "isbn":  "978-1000040112",
+                      "available":  false
+                  },
+                  {
+                      "id":  13,
+                      "title":  "Crime and Punishment 13",
+                      "author":  "Fyodor Dostoevsky",
+                      "year":  1988,
+                      "genre":  "Detective",
+                      "isbn":  "978-1000040113",
+                      "available":  true
+                  },
+                  {
+                      "id":  14,
+                      "title":  "Pride and Prejudice 14",
+                      "author":  "Jane Austen",
+                      "year":  2014,
+                      "genre":  "Romance",
+                      "isbn":  "978-1000040114",
+                      "available":  true
+                  },
+                  {
+                      "id":  15,
+                      "title":  "The Little Prince 15",
+                      "author":  "Antoine de Saint-Exupery",
+                      "year":  1915,
+                      "genre":  "Adventure",
+                      "isbn":  "978-1000040115",
+                      "available":  false
+                  },
+                  {
+                      "id":  16,
+                      "title":  "Jane Eyre 16",
+                      "author":  "Charlotte Bronte",
+                      "year":  1941,
+                      "genre":  "Classic",
+                      "isbn":  "978-1000040116",
+                      "available":  true
+                  },
+                  {
+                      "id":  17,
+                      "title":  "Moby Dick 17",
+                      "author":  "Herman Melville",
+                      "year":  1967,
+                      "genre":  "Fiction",
+                      "isbn":  "978-1000040117",
+                      "available":  true
+                  },
+                  {
+                      "id":  18,
+                      "title":  "The Lord of the Rings 18",
+                      "author":  "J.R.R. Tolkien",
+                      "year":  1993,
+                      "genre":  "Fantasy",
+                      "isbn":  "978-1000040118",
+                      "available":  false
+                  },
+                  {
+                      "id":  19,
+                      "title":  "The Great Gatsby 19",
+                      "author":  "F. Scott Fitzgerald",
+                      "year":  2019,
+                      "genre":  "Novel",
+                      "isbn":  "978-1000040119",
+                      "available":  true
+                  },
+                  {
+                      "id":  20,
+                      "title":  "1984 20",
+                      "author":  "George Orwell",
+                      "year":  1920,
+                      "genre":  "Dystopia",
+                      "isbn":  "978-1000040120",
+                      "available":  true
+                  },
+                  {
+                      "id":  21,
+                      "title":  "The Hobbit 21",
+                      "author":  "J.R.R. Tolkien",
+                      "year":  1946,
+                      "genre":  "Fantasy",
+                      "isbn":  "978-1000040121",
+                      "available":  false
+                  },
+                  {
+                      "id":  22,
+                      "title":  "War and Peace 22",
+                      "author":  "Leo Tolstoy",
+                      "year":  1972,
+                      "genre":  "Historical",
+                      "isbn":  "978-1000040122",
+                      "available":  true
+                  },
+                  {
+                      "id":  23,
+                      "title":  "Crime and Punishment 23",
+                      "author":  "Fyodor Dostoevsky",
+                      "year":  1998,
+                      "genre":  "Detective",
+                      "isbn":  "978-1000040123",
+                      "available":  true
+                  },
+                  {
+                      "id":  24,
+                      "title":  "Pride and Prejudice 24",
+                      "author":  "Jane Austen",
+                      "year":  2024,
+                      "genre":  "Romance",
+                      "isbn":  "978-1000040124",
+                      "available":  false
+                  },
+                  {
+                      "id":  25,
+                      "title":  "The Little Prince 25",
+                      "author":  "Antoine de Saint-Exupery",
+                      "year":  1925,
+                      "genre":  "Adventure",
+                      "isbn":  "978-1000040125",
+                      "available":  true
+                  },
+                  {
+                      "id":  26,
+                      "title":  "Jane Eyre 26",
+                      "author":  "Charlotte Bronte",
+                      "year":  1951,
+                      "genre":  "Classic",
+                      "isbn":  "978-1000040126",
+                      "available":  true
+                  },
+                  {
+                      "id":  27,
+                      "title":  "Moby Dick 27",
+                      "author":  "Herman Melville",
+                      "year":  1977,
+                      "genre":  "Fiction",
+                      "isbn":  "978-1000040127",
+                      "available":  false
+                  },
+                  {
+                      "id":  28,
+                      "title":  "The Lord of the Rings 28",
+                      "author":  "J.R.R. Tolkien",
+                      "year":  2003,
+                      "genre":  "Fantasy",
+                      "isbn":  "978-1000040128",
+                      "available":  true
+                  },
+                  {
+                      "id":  29,
+                      "title":  "The Great Gatsby 29",
+                      "author":  "F. Scott Fitzgerald",
+                      "year":  1904,
+                      "genre":  "Novel",
+                      "isbn":  "978-1000040129",
+                      "available":  true
+                  },
+                  {
+                      "id":  30,
+                      "title":  "1984 30",
+                      "author":  "George Orwell",
+                      "year":  1930,
+                      "genre":  "Dystopia",
+                      "isbn":  "978-1000040130",
+                      "available":  false
+                  },
+                  {
+                      "id":  31,
+                      "title":  "The Hobbit 31",
+                      "author":  "J.R.R. Tolkien",
+                      "year":  1956,
+                      "genre":  "Fantasy",
+                      "isbn":  "978-1000040131",
+                      "available":  true
+                  },
+                  {
+                      "id":  32,
+                      "title":  "War and Peace 32",
+                      "author":  "Leo Tolstoy",
+                      "year":  1982,
+                      "genre":  "Historical",
+                      "isbn":  "978-1000040132",
+                      "available":  true
+                  },
+                  {
+                      "id":  33,
+                      "title":  "Crime and Punishment 33",
+                      "author":  "Fyodor Dostoevsky",
+                      "year":  2008,
+                      "genre":  "Detective",
+                      "isbn":  "978-1000040133",
+                      "available":  false
+                  },
+                  {
+                      "id":  34,
+                      "title":  "Pride and Prejudice 34",
+                      "author":  "Jane Austen",
+                      "year":  1909,
+                      "genre":  "Romance",
+                      "isbn":  "978-1000040134",
+                      "available":  true
+                  },
+                  {
+                      "id":  35,
+                      "title":  "The Little Prince 35",
+                      "author":  "Antoine de Saint-Exupery",
+                      "year":  1935,
+                      "genre":  "Adventure",
+                      "isbn":  "978-1000040135",
+                      "available":  true
+                  },
+                  {
+                      "id":  36,
+                      "title":  "Jane Eyre 36",
+                      "author":  "Charlotte Bronte",
+                      "year":  1961,
+                      "genre":  "Classic",
+                      "isbn":  "978-1000040136",
+                      "available":  false
+                  },
+                  {
+                      "id":  37,
+                      "title":  "Moby Dick 37",
+                      "author":  "Herman Melville",
+                      "year":  1987,
+                      "genre":  "Fiction",
+                      "isbn":  "978-1000040137",
+                      "available":  true
+                  },
+                  {
+                      "id":  38,
+                      "title":  "The Lord of the Rings 38",
+                      "author":  "J.R.R. Tolkien",
+                      "year":  2013,
+                      "genre":  "Fantasy",
+                      "isbn":  "978-1000040138",
+                      "available":  true
+                  },
+                  {
+                      "id":  39,
+                      "title":  "The Great Gatsby 39",
+                      "author":  "F. Scott Fitzgerald",
+                      "year":  1914,
+                      "genre":  "Novel",
+                      "isbn":  "978-1000040139",
+                      "available":  false
+                  },
+                  {
+                      "id":  40,
+                      "title":  "1984 40",
+                      "author":  "George Orwell",
+                      "year":  1940,
+                      "genre":  "Dystopia",
+                      "isbn":  "978-1000040140",
+                      "available":  true
+                  },
+                  {
+                      "id":  41,
+                      "title":  "The Hobbit 41",
+                      "author":  "J.R.R. Tolkien",
+                      "year":  1966,
+                      "genre":  "Fantasy",
+                      "isbn":  "978-1000040141",
+                      "available":  true
+                  },
+                  {
+                      "id":  42,
+                      "title":  "War and Peace 42",
+                      "author":  "Leo Tolstoy",
+                      "year":  1992,
+                      "genre":  "Historical",
+                      "isbn":  "978-1000040142",
+                      "available":  false
+                  },
+                  {
+                      "id":  43,
+                      "title":  "Crime and Punishment 43",
+                      "author":  "Fyodor Dostoevsky",
+                      "year":  2018,
+                      "genre":  "Detective",
+                      "isbn":  "978-1000040143",
+                      "available":  true
+                  },
+                  {
+                      "id":  44,
+                      "title":  "Pride and Prejudice 44",
+                      "author":  "Jane Austen",
+                      "year":  1919,
+                      "genre":  "Romance",
+                      "isbn":  "978-1000040144",
+                      "available":  true
+                  },
+                  {
+                      "id":  45,
+                      "title":  "The Little Prince 45",
+                      "author":  "Antoine de Saint-Exupery",
+                      "year":  1945,
+                      "genre":  "Adventure",
+                      "isbn":  "978-1000040145",
+                      "available":  false
+                  },
+                  {
+                      "id":  46,
+                      "title":  "Jane Eyre 46",
+                      "author":  "Charlotte Bronte",
+                      "year":  1971,
+                      "genre":  "Classic",
+                      "isbn":  "978-1000040146",
+                      "available":  true
+                  },
+                  {
+                      "id":  47,
+                      "title":  "Moby Dick 47",
+                      "author":  "Herman Melville",
+                      "year":  1997,
+                      "genre":  "Fiction",
+                      "isbn":  "978-1000040147",
+                      "available":  true
+                  },
+                  {
+                      "id":  48,
+                      "title":  "The Lord of the Rings 48",
+                      "author":  "J.R.R. Tolkien",
+                      "year":  2023,
+                      "genre":  "Fantasy",
+                      "isbn":  "978-1000040148",
+                      "available":  false
+                  },
+                  {
+                      "id":  49,
+                      "title":  "The Great Gatsby 49",
+                      "author":  "F. Scott Fitzgerald",
+                      "year":  1924,
+                      "genre":  "Novel",
+                      "isbn":  "978-1000040149",
+                      "available":  true
+                  },
+                  {
+                      "id":  50,
+                      "title":  "1984 50",
+                      "author":  "George Orwell",
+                      "year":  1950,
+                      "genre":  "Dystopia",
+                      "isbn":  "978-1000040150",
+                      "available":  true
+                  },
+                  {
+                      "id":  51,
+                      "title":  "The Hobbit 51",
+                      "author":  "J.R.R. Tolkien",
+                      "year":  1976,
+                      "genre":  "Fantasy",
+                      "isbn":  "978-1000040151",
+                      "available":  false
+                  },
+                  {
+                      "id":  52,
+                      "title":  "War and Peace 52",
+                      "author":  "Leo Tolstoy",
+                      "year":  2002,
+                      "genre":  "Historical",
+                      "isbn":  "978-1000040152",
+                      "available":  true
+                  },
+                  {
+                      "id":  53,
+                      "title":  "Crime and Punishment 53",
+                      "author":  "Fyodor Dostoevsky",
+                      "year":  1903,
+                      "genre":  "Detective",
+                      "isbn":  "978-1000040153",
+                      "available":  true
+                  },
+                  {
+                      "id":  54,
+                      "title":  "Pride and Prejudice 54",
+                      "author":  "Jane Austen",
+                      "year":  1929,
+                      "genre":  "Romance",
+                      "isbn":  "978-1000040154",
+                      "available":  false
+                  },
+                  {
+                      "id":  55,
+                      "title":  "The Little Prince 55",
+                      "author":  "Antoine de Saint-Exupery",
+                      "year":  1955,
+                      "genre":  "Adventure",
+                      "isbn":  "978-1000040155",
+                      "available":  true
+                  },
+                  {
+                      "id":  56,
+                      "title":  "Jane Eyre 56",
+                      "author":  "Charlotte Bronte",
+                      "year":  1981,
+                      "genre":  "Classic",
+                      "isbn":  "978-1000040156",
+                      "available":  true
+                  },
+                  {
+                      "id":  57,
+                      "title":  "Moby Dick 57",
+                      "author":  "Herman Melville",
+                      "year":  2007,
+                      "genre":  "Fiction",
+                      "isbn":  "978-1000040157",
+                      "available":  false
+                  },
+                  {
+                      "id":  58,
+                      "title":  "The Lord of the Rings 58",
+                      "author":  "J.R.R. Tolkien",
+                      "year":  1908,
+                      "genre":  "Fantasy",
+                      "isbn":  "978-1000040158",
+                      "available":  true
+                  },
+                  {
+                      "id":  59,
+                      "title":  "The Great Gatsby 59",
+                      "author":  "F. Scott Fitzgerald",
+                      "year":  1934,
+                      "genre":  "Novel",
+                      "isbn":  "978-1000040159",
+                      "available":  true
+                  },
+                  {
+                      "id":  60,
+                      "title":  "1984 60",
+                      "author":  "George Orwell",
+                      "year":  1960,
+                      "genre":  "Dystopia",
+                      "isbn":  "978-1000040160",
+                      "available":  false
+                  },
+                  {
+                      "id":  61,
+                      "title":  "The Hobbit 61",
+                      "author":  "J.R.R. Tolkien",
+                      "year":  1986,
+                      "genre":  "Fantasy",
+                      "isbn":  "978-1000040161",
+                      "available":  true
+                  },
+                  {
+                      "id":  62,
+                      "title":  "War and Peace 62",
+                      "author":  "Leo Tolstoy",
+                      "year":  2012,
+                      "genre":  "Historical",
+                      "isbn":  "978-1000040162",
+                      "available":  true
+                  },
+                  {
+                      "id":  63,
+                      "title":  "Crime and Punishment 63",
+                      "author":  "Fyodor Dostoevsky",
+                      "year":  1913,
+                      "genre":  "Detective",
+                      "isbn":  "978-1000040163",
+                      "available":  false
+                  },
+                  {
+                      "id":  64,
+                      "title":  "Pride and Prejudice 64",
+                      "author":  "Jane Austen",
+                      "year":  1939,
+                      "genre":  "Romance",
+                      "isbn":  "978-1000040164",
+                      "available":  true
+                  },
+                  {
+                      "id":  65,
+                      "title":  "The Little Prince 65",
+                      "author":  "Antoine de Saint-Exupery",
+                      "year":  1965,
+                      "genre":  "Adventure",
+                      "isbn":  "978-1000040165",
+                      "available":  true
+                  },
+                  {
+                      "id":  66,
+                      "title":  "Jane Eyre 66",
+                      "author":  "Charlotte Bronte",
+                      "year":  1991,
+                      "genre":  "Classic",
+                      "isbn":  "978-1000040166",
+                      "available":  false
+                  },
+                  {
+                      "id":  67,
+                      "title":  "Moby Dick 67",
+                      "author":  "Herman Melville",
+                      "year":  2017,
+                      "genre":  "Fiction",
+                      "isbn":  "978-1000040167",
+                      "available":  true
+                  },
+                  {
+                      "id":  68,
+                      "title":  "The Lord of the Rings 68",
+                      "author":  "J.R.R. Tolkien",
+                      "year":  1918,
+                      "genre":  "Fantasy",
+                      "isbn":  "978-1000040168",
+                      "available":  true
+                  },
+                  {
+                      "id":  69,
+                      "title":  "The Great Gatsby 69",
+                      "author":  "F. Scott Fitzgerald",
+                      "year":  1944,
+                      "genre":  "Novel",
+                      "isbn":  "978-1000040169",
+                      "available":  false
+                  },
+                  {
+                      "id":  70,
+                      "title":  "1984 70",
+                      "author":  "George Orwell",
+                      "year":  1970,
+                      "genre":  "Dystopia",
+                      "isbn":  "978-1000040170",
+                      "available":  true
+                  },
+                  {
+                      "id":  71,
+                      "title":  "The Hobbit 71",
+                      "author":  "J.R.R. Tolkien",
+                      "year":  1996,
+                      "genre":  "Fantasy",
+                      "isbn":  "978-1000040171",
+                      "available":  true
+                  },
+                  {
+                      "id":  72,
+                      "title":  "War and Peace 72",
+                      "author":  "Leo Tolstoy",
+                      "year":  2022,
+                      "genre":  "Historical",
+                      "isbn":  "978-1000040172",
+                      "available":  false
+                  },
+                  {
+                      "id":  73,
+                      "title":  "Crime and Punishment 73",
+                      "author":  "Fyodor Dostoevsky",
+                      "year":  1923,
+                      "genre":  "Detective",
+                      "isbn":  "978-1000040173",
+                      "available":  true
+                  },
+                  {
+                      "id":  74,
+                      "title":  "Pride and Prejudice 74",
+                      "author":  "Jane Austen",
+                      "year":  1949,
+                      "genre":  "Romance",
+                      "isbn":  "978-1000040174",
+                      "available":  true
+                  },
+                  {
+                      "id":  75,
+                      "title":  "The Little Prince 75",
+                      "author":  "Antoine de Saint-Exupery",
+                      "year":  1975,
+                      "genre":  "Adventure",
+                      "isbn":  "978-1000040175",
+                      "available":  false
+                  },
+                  {
+                      "id":  76,
+                      "title":  "Jane Eyre 76",
+                      "author":  "Charlotte Bronte",
+                      "year":  2001,
+                      "genre":  "Classic",
+                      "isbn":  "978-1000040176",
+                      "available":  true
+                  },
+                  {
+                      "id":  77,
+                      "title":  "Moby Dick 77",
+                      "author":  "Herman Melville",
+                      "year":  1902,
+                      "genre":  "Fiction",
+                      "isbn":  "978-1000040177",
+                      "available":  true
+                  },
+                  {
+                      "id":  78,
+                      "title":  "The Lord of the Rings 78",
+                      "author":  "J.R.R. Tolkien",
+                      "year":  1928,
+                      "genre":  "Fantasy",
+                      "isbn":  "978-1000040178",
+                      "available":  false
+                  },
+                  {
+                      "id":  79,
+                      "title":  "The Great Gatsby 79",
+                      "author":  "F. Scott Fitzgerald",
+                      "year":  1954,
+                      "genre":  "Novel",
+                      "isbn":  "978-1000040179",
+                      "available":  true
+                  },
+                  {
+                      "id":  80,
+                      "title":  "1984 80",
+                      "author":  "George Orwell",
+                      "year":  1980,
+                      "genre":  "Dystopia",
+                      "isbn":  "978-1000040180",
+                      "available":  true
+                  },
+                  {
+                      "id":  81,
+                      "title":  "The Hobbit 81",
+                      "author":  "J.R.R. Tolkien",
+                      "year":  2006,
+                      "genre":  "Fantasy",
+                      "isbn":  "978-1000040181",
+                      "available":  false
+                  },
+                  {
+                      "id":  82,
+                      "title":  "War and Peace 82",
+                      "author":  "Leo Tolstoy",
+                      "year":  1907,
+                      "genre":  "Historical",
+                      "isbn":  "978-1000040182",
+                      "available":  true
+                  },
+                  {
+                      "id":  83,
+                      "title":  "Crime and Punishment 83",
+                      "author":  "Fyodor Dostoevsky",
+                      "year":  1933,
+                      "genre":  "Detective",
+                      "isbn":  "978-1000040183",
+                      "available":  true
+                  },
+                  {
+                      "id":  84,
+                      "title":  "Pride and Prejudice 84",
+                      "author":  "Jane Austen",
+                      "year":  1959,
+                      "genre":  "Romance",
+                      "isbn":  "978-1000040184",
+                      "available":  false
+                  },
+                  {
+                      "id":  85,
+                      "title":  "The Little Prince 85",
+                      "author":  "Antoine de Saint-Exupery",
+                      "year":  1985,
+                      "genre":  "Adventure",
+                      "isbn":  "978-1000040185",
+                      "available":  true
+                  },
+                  {
+                      "id":  86,
+                      "title":  "Jane Eyre 86",
+                      "author":  "Charlotte Bronte",
+                      "year":  2011,
+                      "genre":  "Classic",
+                      "isbn":  "978-1000040186",
+                      "available":  true
+                  },
+                  {
+                      "id":  87,
+                      "title":  "Moby Dick 87",
+                      "author":  "Herman Melville",
+                      "year":  1912,
+                      "genre":  "Fiction",
+                      "isbn":  "978-1000040187",
+                      "available":  false
+                  },
+                  {
+                      "id":  88,
+                      "title":  "The Lord of the Rings 88",
+                      "author":  "J.R.R. Tolkien",
+                      "year":  1938,
+                      "genre":  "Fantasy",
+                      "isbn":  "978-1000040188",
+                      "available":  true
+                  },
+                  {
+                      "id":  89,
+                      "title":  "The Great Gatsby 89",
+                      "author":  "F. Scott Fitzgerald",
+                      "year":  1964,
+                      "genre":  "Novel",
+                      "isbn":  "978-1000040189",
+                      "available":  true
+                  },
+                  {
+                      "id":  90,
+                      "title":  "1984 90",
+                      "author":  "George Orwell",
+                      "year":  1990,
+                      "genre":  "Dystopia",
+                      "isbn":  "978-1000040190",
+                      "available":  false
+                  },
+                  {
+                      "id":  91,
+                      "title":  "The Hobbit 91",
+                      "author":  "J.R.R. Tolkien",
+                      "year":  2016,
+                      "genre":  "Fantasy",
+                      "isbn":  "978-1000040191",
+                      "available":  true
+                  },
+                  {
+                      "id":  92,
+                      "title":  "War and Peace 92",
+                      "author":  "Leo Tolstoy",
+                      "year":  1917,
+                      "genre":  "Historical",
+                      "isbn":  "978-1000040192",
+                      "available":  true
+                  },
+                  {
+                      "id":  93,
+                      "title":  "Crime and Punishment 93",
+                      "author":  "Fyodor Dostoevsky",
+                      "year":  1943,
+                      "genre":  "Detective",
+                      "isbn":  "978-1000040193",
+                      "available":  false
+                  },
+                  {
+                      "id":  94,
+                      "title":  "Pride and Prejudice 94",
+                      "author":  "Jane Austen",
+                      "year":  1969,
+                      "genre":  "Romance",
+                      "isbn":  "978-1000040194",
+                      "available":  true
+                  },
+                  {
+                      "id":  95,
+                      "title":  "The Little Prince 95",
+                      "author":  "Antoine de Saint-Exupery",
+                      "year":  1995,
+                      "genre":  "Adventure",
+                      "isbn":  "978-1000040195",
+                      "available":  true
+                  },
+                  {
+                      "id":  96,
+                      "title":  "Jane Eyre 96",
+                      "author":  "Charlotte Bronte",
+                      "year":  2021,
+                      "genre":  "Classic",
+                      "isbn":  "978-1000040196",
+                      "available":  false
+                  },
+                  {
+                      "id":  97,
+                      "title":  "Moby Dick 97",
+                      "author":  "Herman Melville",
+                      "year":  1922,
+                      "genre":  "Fiction",
+                      "isbn":  "978-1000040197",
+                      "available":  true
+                  },
+                  {
+                      "id":  98,
+                      "title":  "The Lord of the Rings 98",
+                      "author":  "J.R.R. Tolkien",
+                      "year":  1948,
+                      "genre":  "Fantasy",
+                      "isbn":  "978-1000040198",
+                      "available":  true
+                  },
+                  {
+                      "id":  99,
+                      "title":  "The Great Gatsby 99",
+                      "author":  "F. Scott Fitzgerald",
+                      "year":  1974,
+                      "genre":  "Novel",
+                      "isbn":  "978-1000040199",
+                      "available":  false
+                  },
+                  {
+                      "id":  100,
+                      "title":  "1984 100",
+                      "author":  "George Orwell",
+                      "year":  2000,
+                      "genre":  "Dystopia",
+                      "isbn":  "978-1000040200",
+                      "available":  true
+                  },
+                  {
+                      "id":  101,
+                      "title":  "The Alchemist",
+                      "author":  "Paulo Coelho",
+                      "year":  1988,
+                      "genre":  "Novel",
+                      "isbn":  "9780061122415",
+                      "available":  true
+                  }
+              ],
+    "Count":  101
+}
