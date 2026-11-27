@@ -17,3 +17,7 @@ benchmark-data/
 
 *.log
 logs.txt
+certs/
+create-cert.js
+create-cert.ps1
+downloaded-style.css
