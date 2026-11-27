@@ -1,0 +1,24 @@
+{
+  "name": "lr17",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/cli.test.js",
+    "start": "node bin/my-cli.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "chalk": "^6.0.1",
+    "cli-progress": "^3.12.0",
+    "commander": "^15.1.0",
+    "inquirer": "^14.3.1",
+    "ora": "^10.0.0"
+  },
+  "bin": {
+    "my-cli": "bin/my-cli.js"
+  }
+}
